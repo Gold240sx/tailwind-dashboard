@@ -12,3 +12,6 @@
 #### Light mode
 
 ![Light mode](./light-mode.png)
+
+A nice matching login screen: 
+https://supabase-nextjs-todo-list.vercel.app
